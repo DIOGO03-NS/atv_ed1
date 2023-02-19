@@ -1,0 +1,16 @@
+public class Ex27 {
+    public static void main(String[] args) {
+        int x, y;
+        x = 2;
+        y = 5;
+        
+        System.out.println("X = " + x);
+        x++;
+
+        System.out.println("Y = " + y);
+        y--;
+
+        System.out.println("novo valor de X = " + x);
+        System.out.println("novo valor de Y= " + y);
+    }
+}
